@@ -172,11 +172,12 @@
        name  : اسم المرسل
        method: طريقة الدفع
        amount: المبلغ
-       time  : الوقت
+       order  : الوقت
     */
 
     const transfers = [
-      { name: 'احمد ع** اح*د ع**', method: 'Vodafone Cash', amount: '50 EGP', time: '.' }
+      { name: 'Ahmed Ali Ahmed Ali', method: 'Vodafone Cash', amount: '+55 EGP', order: 'روبوكس' },
+      { name: 'Kareem A Abou Omar', method: 'Vodafone Cash', amount: '+830 EGP', order: 'روبوكس' }
     ];
 
     const logsEl = document.getElementById('logs');
@@ -189,7 +190,7 @@
         li.style.border = '1px solid var(--border)';
         li.style.borderRadius = '12px';
         li.style.padding = '12px';
-        li.innerHTML = `<strong>${t.name}</strong> — ${t.method}<br><span style="font-size:12px;color:#c7ccff">${t.amount} • ${t.time}</span>`;
+        li.innerHTML = `<strong>${t.name}</strong> — ${t.method}<br><span style="font-size:12px;color:#c7ccff">${t.amount} • ${t.order}</span>`;
         logsEl.appendChild(li);
       });
     }
