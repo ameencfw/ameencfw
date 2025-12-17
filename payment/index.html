@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>طرق الدفع - amtixdev</title>
+  <title>طرق الدفع - AmtiXDev</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
@@ -108,7 +108,7 @@
     <header>
       <div class="title">
         <div class="logo">A</div>
-        <h1>طرق الدفع — amtixdev</h1>
+        <h1>طرق الدفع — AmtiXDev</h1>
       </div>
       <span class="badge">Modern Web UI</span>
     </header>
@@ -145,6 +145,12 @@
       </article>
     </section>
 
+    <section class="card" style="margin-top:20px">
+      <h2>Logs — آخر التحويلات</h2>
+      <p class="hint">Webhook</p>
+      <ul id="logs" style="list-style:none;padding:0;margin:0;display:grid;gap:10px"></ul>
+    </section>
+
     <footer>
       <span class="foot">© amtixdev</span>
       <span class="foot">Secure • Fast • Copyable</span>
@@ -158,6 +164,37 @@
       const t = btn.textContent; btn.textContent='✓';
       setTimeout(()=>btn.textContent=t,900);
     }
+
+    /* =========================
+       Logs Script (قابل للتعديل)
+       =========================
+       كل عنصر يمثل عملية تحويل
+       name  : اسم المرسل
+       method: طريقة الدفع
+       amount: المبلغ
+       time  : الوقت
+    */
+
+    const transfers = [
+      { name: 'احمد ع** اح*د ع**', method: 'Vodafone Cash', amount: '50 EGP', time: '.' }
+    ];
+
+    const logsEl = document.getElementById('logs');
+
+    function renderLogs(){
+      logsEl.innerHTML = '';
+      transfers.slice(0,5).forEach(t => {
+        const li = document.createElement('li');
+        li.style.background = 'rgba(0,0,0,.35)';
+        li.style.border = '1px solid var(--border)';
+        li.style.borderRadius = '12px';
+        li.style.padding = '12px';
+        li.innerHTML = `<strong>${t.name}</strong> — ${t.method}<br><span style="font-size:12px;color:#c7ccff">${t.amount} • ${t.time}</span>`;
+        logsEl.appendChild(li);
+      });
+    }
+
+    renderLogs();
   </script>
 </body>
 </html>
