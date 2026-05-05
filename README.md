@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=25:000,100:050D25&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=25:000,100:200906&height=150&section=header" />
 
 # 👋 Hey, I'm **AmtiX**
 
