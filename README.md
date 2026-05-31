@@ -87,7 +87,7 @@ Years Code: 9+
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=fff)](https://x.com/AmtiXDev)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/YgV2Ftr8ED)
 
-**Check out my full portfolio → [https://amtixdev.vercel.app](https://amtixdev.vercel.app)**
+**Check out my full portfolio → [https://amtixdev.xyz](https://amtixdev.xyz)**
 
 ---
 
