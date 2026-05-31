@@ -1,105 +1,96 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=25:000,100:200906&height=150&section=header" alt="Header" />
-
 <div align="center">
-  <h1>👋 Hey, I'm Ameen AKA <b>AmtiX</b></h1>
-  <p>
-    💡 A passionate developer who loves creating interactive web experiences, Discord bots, and creative frameworks that blend design and functionality. <br />
-    🚀 Always learning, building, and pushing boundaries in the world of JavaScript and backend development.
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mutesuffering&style=flat-square&color=blue" alt="Profile Views" />
-  </p>
+
+```text
+[root@amtixdev ~]# whoami
+```
+
+# **AmtiXDev**
+
+**Full-Stack & Software Engineer — Electrical Engineer**
+
+Specializing in AI model training, backend architecture, and high-performance bot systems. Founder of Creative Framework. Polyglot developer fluent in 15+ languages across the entire stack.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ameencfw&style=flat-square&color=ffffff&label=PROFILE+VIEWS)](https://github.com/ameencfw)
+
 </div>
 
 ---
 
-### 🧠 About Me
+## ⚡ About Me
 
-- 🔭 **Currently building:** A **Manga Reader Framework** and advanced **Discord Bots** (Check out *Velvra*!)
-- 🌱 **Currently exploring:** Full-stack performance optimization and scalable architectures
-- 💬 **Ask me about:** JavaScript, Node.js, Express, MongoDB, and Creative UI/UX
-- ⚙️ **My approach:** I enjoy designing tools that are clean, powerful, and purposeful
-- 🎯 **My goal:** To create something that people *actually love to use*
+I'm **Ameen Ahmed** — known online as **AmtiXDev**, born November 5, 2007. I'm a freelance full-stack & software engineer with a background in electrical engineering.
 
----
+My strongest passion lies in **AI training** — fine-tuning models, building custom training pipelines, and pushing what machines can learn. I also love backend work: designing APIs, architecting databases, and engineering high-performance Discord bots.
 
-### 🛠️ Tech Stack
+I'm the founder of **Creative Framework**, a development team building the next generation of developer tooling. I also publish and maintain **npm packages** on npmjs.com.
 
-#### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,c,ruby,rust,lua,julia,bash" alt="Programming Languages" />
-</p>
+Beyond code, I'm a **translator** fluent in English, Arabic, Japanese, Russian, Korean, and more.
 
-#### 🧩 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs" alt="Frameworks" />
-</p>
-
-#### 🗄️ Databases & Tech
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite,vscode,git,github" alt="Databases and Tech" />
-</p>
-
-#### 🧰 Tools & OS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,arch,discord,blender,ps,ae" alt="Tools" />
-</p>
+```text
+Languages:  15+
+Projects:   50+
+Years Code: 9+
+```
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Skills & Expertise
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ameencfw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameencfw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### Languages & Tools
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameencfw&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=ameencfw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ameencfw&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### ⚡ Featured Projects
-
-| 🚀 **Velvra** | 📖 **Manga Reader Framework** |
-| :--- | :--- |
-| An advanced, multi-purpose Discord bot built with clean architecture and powerful features. | A highly optimized, customizable framework designed for seamless manga reading experiences. |
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=fff)
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://discord.com/users/246354195979042817" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="48px" alt="Discord" />
-  </a>
-  <a href="https://discord.gg/fDkjPNN6sP" target="_blank">
-    <img src="https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="48px" alt="Discord Server" />
-  </a>
-  <a href="https://x.com/AmtiXDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48px" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/amtixdev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48px" alt="Instagram" />
-  </a>
-  <a href="mailto:contact@creativeframework.site" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://discord.com/users/246354195979042817">
-    <img src="https://lanyard.cnrad.dev/api/246354195979042817?theme=dark&bg=1a1b27&borderRadius=10px&animated=true&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Status"/>
-  </a>
-</p>
+| Stats | Top Languages | Streak |
+|:-----:|:-------------:|:------:|
+| ![](https://github-readme-stats.shion.dev/api?username=ameencfw&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&text_color=fff&icon_color=fff&title_color=fff&card_width=400) | ![](https://github-readme-stats.shion.dev/api/top-langs?username=ameencfw&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&text_color=fff&title_color=fff&card_width=400) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ameencfw&theme=dark&background=0d1117&hide_border=true&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideNums=fff&sideLabels=666&dates=555) |
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=25:000,100:200906&height=100&section=footer" alt="Footer" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ameencfw&theme=tokyo-night&hide_border=true&radius=10&area=true&point=fff&line=fff&area_color=ffffff10&color=fff&custom_title=Contribution+Graph)
+
+![](https://github-profile-trophy-fork-two.vercel.app/?username=ameencfw&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Links |
+|:-------:|:-----------:|:-----:|
+| **Vyron** | The only GiveawayBot you will ever need. Highly customizable, built for scale. | [Website](https://vyron.site) · [Discord](https://discord.gg/Fqv8q2NBGK) |
+| **Velvra** | Complete all-in-one system bot to enhance and protect your Discord server. | [GitHub](https://github.com/Velvra) · [Discord](https://discord.gg/qccq2mMgaT) |
+| **StreakBot** | Maintain daily streaks by sending photos, videos, GIFs, and voice messages. | [Website](http://streakbot.net) · [Discord](https://discord.gg/Wvr6vUPRzg) |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ameencfw)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=fff)](https://x.com/AmtiXDev)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/YgV2Ftr8ED)
+
+**Check out my full portfolio → [https://amtixdev.xyz](https://amtixdev.xyz)**
+
+---
+
+<sub>© 2026 AmtiXDev — Creative Framework</sub>
+
+</div>
