@@ -10,7 +10,7 @@
 
 Specializing in AI model training, backend architecture, and high-performance bot systems. Founder of Creative Framework. Polyglot developer fluent in 15+ languages across the entire stack.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ameencfw&style=flat-square&color=ffffff&label=PROFILE+VIEWS)](https://github.com/ameencfw)
+[![Profile Views](https://komarev.com/ghpvc/?username=ameencfw&style=flat-square&color=000000&label=PROFILE+VIEWS)](https://github.com/ameencfw)
 
 </div>
 
@@ -87,7 +87,7 @@ Years Code: 9+
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=fff)](https://x.com/AmtiXDev)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/YgV2Ftr8ED)
 
-**Check out my full portfolio → [https://amtixdev.xyz](https://amtixdev.xyz)**
+**Check out my full portfolio → [https://amtixdev.vercel.app](https://amtixdev.vercel.app)**
 
 ---
 
