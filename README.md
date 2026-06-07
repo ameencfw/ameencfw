@@ -75,7 +75,7 @@ Years Code: 9+
 |:-------:|:-----------:|:-----:|
 | **Vyron** | The only GiveawayBot you will ever need. Highly customizable, built for scale. | [Website](https://vyron.site) · [Discord](https://discord.gg/Fqv8q2NBGK) |
 | **Velvra** | Complete all-in-one system bot to enhance and protect your Discord server. | [GitHub](https://github.com/Velvra) · [Discord](https://discord.gg/qccq2mMgaT) |
-| **StreakBot** | Maintain daily streaks by sending photos, videos, GIFs, and voice messages. | [Website](http://streakbot.net) · [Discord](https://discord.gg/Wvr6vUPRzg) |
+| **StreakBot** | Maintain daily streaks by sending photos, videos, GIFs, and voice messages. | [Website](http://streakbot.net) (Under development) · [Discord](https://discord.gg/Wvr6vUPRzg) |
 
 ---
 
